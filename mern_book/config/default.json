@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+        "mongodb+srv://mern_book_server:mernbookserver@cluster0.pygyu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
